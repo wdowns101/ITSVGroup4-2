@@ -1,3 +1,17 @@
 theme: jekyll-theme-minimal
 title: Group 4's homepage
 description: Howdy! This is group 4, I like sports ⚽️ 
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Webpage Title</title>
+</head>
+<body>
+    <h1>Welcome to My Webpage</h1>
+    <p>This is a cool webpage created using HTML!</p>
+</body>
+</html>
